@@ -10,7 +10,7 @@ Aquí encontrarás algunos de mis proyectos en JavaScript y otros lenguajes que 
 - Proyectos destacados con código y su demostración  
 - Diseño responsivo y optimizado
 
-## 🏆 Proyectos  
+## 🏆 Algunos de mis proyectos  
 🔹 [Proyecto 1 - Juego de adivinar el número con Javascript](https://juan-david-cruz.github.io/Juego-del-numero-secreto/)  
 🔹 [Proyecto 2 - Sorteo de amigo secreot con Javascript](https://juan-david-cruz.github.io/challenge-amigo-secreto/)  
 🔹 [Proyecto 3 - Gestor de gastos sencillo con Javascript](https://juan-david-cruz.github.io/control-de-gastos/)  
